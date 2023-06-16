@@ -125,7 +125,7 @@ body {
 /** Header */
 .header {
     height: 350px;
-    background-color: var(--red);
+    background-color: var(--grey);
     display: flex;
     justify-content: center;
     align-items: center;
